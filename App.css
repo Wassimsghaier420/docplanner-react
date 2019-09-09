@@ -1,0 +1,89 @@
+.liste{
+ display: flex;
+  justify-content: space-around;
+
+}
+.lead__logo{
+  align-items: center
+}
+.title{
+  padding-top: 50px
+}
+.par1{
+  padding-top: 50px;
+  color: #747474;
+  justify-content: space-between;
+  display: flex
+}
+.card-body{
+  width: 176% !important;
+  overflow: hidden;
+
+}
+img{
+  margin-right: -60%  !important;
+}
+.list-card{
+  
+  background-image: url('doc.png');
+  background-repeat: no-repeat;
+  background-size: 500px;
+}
+
+.card-title {
+  color: #747474;
+  font-size: 143%;
+}
+.card-text{
+  
+  color:#747474;
+}
+.imp{
+  color: #00b39b;
+  text-align: center;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+.imptext{
+  
+  color: #747474;
+  text-align:center
+}
+.DOC{
+  padding-bottom: 50px
+}
+.IM{
+  padding-top: 50px
+}
+.boxes{
+  display: flex
+}
+.button1{
+width: 40px;
+height: 30px
+}
+
+
+.cords{
+  display: flex;
+  width: 30%;
+  height:30%
+
+}
+.citymap{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-top: 8%;
+  margin-bottom: 9%
+
+}
+.btn-secondary{
+font-size: 8%;
+height: 150%;
+margin-top: 10%
+}
+
+.footer{
+  justify-content: center
+}
+
